@@ -88,4 +88,4 @@
 >I quite like Python language because of how simple and easy it is, but I also like Java the same amount, because of how un-simple it is. Also I've slowly forgotten C# and all I remember is in the last block above.
 
 ## Downloads
-- [Download Space Dodge as `.zip`](./SpaceDodge.zip)
+- [Download Space Dodge as .zip](./SpaceDodge.zip)
