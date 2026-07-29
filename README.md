@@ -67,13 +67,13 @@
     }
     ```
 ## Successful Projects
-+ Platform  
++ [Platform](Platform.py)  
     Python demo file of `pygame` as a platform game window.
 
 + SpaceDodge
     Available on codepad. Player rectangle dodges stars as it flies through space. Made by `BoredBoardCoder`.
 
-+ TKinter GUI  
++ [TKinter GUI](tkinter_gui.py)  
     Python demo file of `tkinter` as a simple "Click me!" window.
 
 + SimpleHTMLPage.com  
