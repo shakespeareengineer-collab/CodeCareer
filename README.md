@@ -76,7 +76,7 @@
 + [TKinter GUI](tkinter_gui.py)  
     Python demo file of `tkinter` as a simple "Click me!" window.
 
-+ [SimpleHTMLPage.com](https://shakespeareengineer-collab.github.io/CodeCareer/main/index.html)  
++ [SimpleHTMLPage.com](https://shakespeareengineer-collab.github.io/CodeCareer/)  
     A very simple trustworthy website, has no info and doesn't actually collect any info.
 
 ## Favorite Coding Apps
