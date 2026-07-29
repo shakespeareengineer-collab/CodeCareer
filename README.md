@@ -80,8 +80,8 @@
     A very simple trustworthy website, has no info and doesn't actually collect any info.
 
 ## Favorite Coding Apps
-- VS Code (compatible with most languages)
-- Codepad.app (use in browser)
+- [VS Code](https://code.visualstudio.com) (compatible with most languages)
+- [Codepad](https://codepad.app) (use in browser)
 - Notepad (no code re-directs)
 
 ## Notes
