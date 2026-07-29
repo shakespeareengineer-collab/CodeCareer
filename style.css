@@ -1,0 +1,28 @@
+body {
+    background-color: #e6ebef;
+}
+#main-title {
+    text-align: center;
+    background-color: lime;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+.centered {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-width: 128px;
+    text-align: center;
+    height: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
