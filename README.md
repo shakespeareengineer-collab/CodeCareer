@@ -66,6 +66,16 @@
         }
     }
     ```
+6. C++
+   ```cpp
+   #include <iostream>
+    
+   int main() {
+       std::string message = "This is C++";
+       std::cout << message << std::endl;
+       return 0;
+   }
+   ```
 ## Successful Projects
 + [Platform](Platform.py)  
     Python demo file of `pygame` as a platform game window.
